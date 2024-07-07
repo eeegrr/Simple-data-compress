@@ -155,9 +155,7 @@ public class Main {
         } else if (parts[0].equals("decomp")) {
           decompress(parts);
         } else if (parts[0].equals("about")) {
-          System.out.println("221RDB102");
           System.out.println("Evelina Graumane");
-          System.out.println("15.grupa");
 
         } else if (parts[0].equals("exit")) {
           break;
